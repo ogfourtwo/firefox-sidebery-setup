@@ -11,7 +11,7 @@ I really loved the look and feel of workspaces and the vertical tabs in Arc Brow
 
 3. Enable Picture-in-Picture (Optional-Bonus).
 
-Warning: This is a realtively easy process but it does take a few steps and may need tinkering to work properly on your system. This works perfectly as of 12-12-2024 firefox version 133.0 on a 1080p screen. Do this at your own risk.
+Warning: This is a relatively easy process but it does take a few steps and may need tinkering to work properly on your system. This works perfectly as of 12-12-2024 firefox version 133.0 on a 1080p screen. Do this at your own risk.
 
 ## Steps:
 
@@ -29,6 +29,10 @@ Warning: This is a realtively easy process but it does take a few steps and may 
 
 ![step3](https://github.com/user-attachments/assets/05d21ae7-04d1-4911-b703-7b6687c6314f)
 
-4.
+4. Find the 'Profile Folder' row and click on 'Open Folder' (This opens your profile folder)
 
-# WORK IN PROGRESS
+![step4](https://github.com/user-attachments/assets/9fa40f27-29b3-4bfc-bbb5-7091c266539e)
+
+5. In the profile folder create a new folder name it 'chrome'. This is the folder we will be putting our UserChrome.css file.
+
+#WIP
