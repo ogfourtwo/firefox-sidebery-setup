@@ -1,7 +1,12 @@
 # custom firefox-sidebery-setup
-My personal clean firefox + sidebery setup which maximizes screenspace without removing anything.
-
+My personal firefox + sidebery setup which maximizes screenspace without loosing functionality.
 I really loved the look and feel of workspaces and the vertical tabs in Arc Browser but it was very restrictive. As I use a windows device primarily and I like to customize my experiences my go to browser is Firefox. Firefox nightly does have experimental vertical sidebars but it is not a full feature as of yet. I hope they implement a good one soon. This is my setup as of now. I'm very pleased with it.
+
+## Screenshots:
+
+![s2](https://github.com/user-attachments/assets/086f837a-af69-40f9-a8aa-9c3669596f32)
+
+![s1](https://github.com/user-attachments/assets/a7b693af-019a-4fee-8054-f69b73393167)
 
 ## Addons used:
 
