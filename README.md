@@ -68,10 +68,13 @@ Warning: This is a relatively easy process but it does take a few steps and may 
     * enable permissions for the features you want to use.
     * enable Use native context menu.
     * disable Render icons.
+
       ![{F05979B5-63D9-4E5F-915A-895AD781CE7E}](https://github.com/user-attachments/assets/18bd92ee-b0af-44bc-8392-6b5ffec2a96b)
     * Elements are basically workspaces. You can add them as you like.
+
       ![step14](https://github.com/user-attachments/assets/c36d13d3-5040-4137-8a46-2a37d401178e)
     * I highly recommend enabling colorized branches.
+    
       ![{2DE6EA42-5AA5-4395-94ED-FD493550FE4F}](https://github.com/user-attachments/assets/59363a93-b6d2-48a0-b7d0-8c6970252684)
     * Snapshots is a feature that remembers windows. It remembers which tabs are open at specific intervals and you can use the snapshots viewer to reopen those tabs. It is a feature that has helped me tons.
       ![{B5CD6CDE-8F64-4E15-9866-EF6AECD7CA58}](https://github.com/user-attachments/assets/17ac225a-cc6b-48f2-8d76-153a2eb4e316)
@@ -86,9 +89,12 @@ Warning: This is a relatively easy process but it does take a few steps and may 
     
   ![{4E0F3AC7-E91C-43A7-8B28-352468559156}](https://github.com/user-attachments/assets/8f78d973-6c81-4d1b-8561-00dd9e4821d1)
 
-17. Hide the bookmarks toolbar and also drag it up from under the tool bar.
+17. Hide the bookmarks toolbar from toolbar behaviour.
 
   ![Screenshot 2024-12-14 183819](https://github.com/user-attachments/assets/9ee7d3a5-2449-4a6b-995a-980cbb4e7245)
+
+  Drag the bookmarks toolbar onto the top bar.
+  
   ![step16](https://github.com/user-attachments/assets/eefddeb8-5faf-48eb-99f4-006b292b5d62)
 
 18. You can move any of the icons around. Experiment with it. You can create space between the icons/elements by dragging 'Flexible Space' on there. This is my setup:
@@ -100,3 +106,8 @@ ___
 * [FireFoxCSS](https://www.reddit.com/r/FirefoxCSS/) subreddit for so many resources.
 * [akshat46]() for his [FlyingFox](https://github.com/akshat46/FlyingFox/releases) theme that originally inspired me to make my own.
 * [FirefoxCSS Store](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) for inspiration.
+___
+## Final Remarks
+The userChrome.css is heavily dependent on the firefox version. A firefox update may break this setup at any time. I encourage you to experiment with it. It is just basic css. For further fine tuning refer [firefox css hacks](https://github.com/MrOtherGuy/firefox-csshacks). It is an amazing repo with tons of css customization options.
+
+I decided to make this tutorial simply because I had a lot of fun doing this and wanted to give something to the community. There are tons of amazing creators whose works can be found on FirefoxCSS subreddit or on FirefoxCSS store. I highly recommend checking those out. This is in no way a perfect tutorial. I tried to make it as easy as possible. To make this I installed a fresh version of firefox and I can confirm as of 14-12-2024 that everything works. Feel free to drop any suggestions or report things that don't work. I am a beginner myself. Thank you for reading ♥
