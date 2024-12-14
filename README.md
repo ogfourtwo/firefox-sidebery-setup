@@ -9,7 +9,7 @@ I really loved the look and feel of workspaces and the vertical tabs in Arc Brow
 
 2. Firefox Color - Lets us customize the firefox theme extensively. 
 
-3. Enable Picture-in-Picture (Optional-Bonus).
+3. Enable Picture-in-Picture (Optional-Bonus: Really useful addon that lets you pip any video). 
 
 Warning: This is a relatively easy process but it does take a few steps and may need tinkering to work properly on your system. This works perfectly as of 12-12-2024 firefox version 133.0 on a 1080p screen. Do this at your own risk.
 
