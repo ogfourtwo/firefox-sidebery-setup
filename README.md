@@ -48,7 +48,11 @@ Warning: This is a relatively easy process but it does take a few steps and may 
 
   ![{AF010EE3-9302-44D8-AABA-987AE0CB4EC9}](https://github.com/user-attachments/assets/91388e14-0da2-459e-a8f6-d25f0f75d26d)
 
-9. Create a file userChrome.css and paste the given content or simply download and place the given css file in the 'chrome' folder.
+9. Create a file userChrome.css and paste the given content from [userChrome.css](https://github.com/ogfourtwo/firefox-sidebery-setup/blob/main/userChrome.css) or simply download and place the file in the 'chrome' folder.
+
+Downloading the files:
+![Screenshot 2024-12-21 151954](https://github.com/user-attachments/assets/10361ae1-d517-4fb8-9da8-cb23c8e22bc5)
+
 
 10. Now restart firefox.
 
@@ -58,11 +62,11 @@ Warning: This is a relatively easy process but it does take a few steps and may 
 
   ![{32B25C1E-AF86-465E-A151-CE84D394BC93}](https://github.com/user-attachments/assets/8c71fdbe-ca28-4de3-a66b-c29135f68b9e)
 
-12. In the settings go to 'Help' tab and select 'import addon data' and import the given sidebery.json settings file.
+12. In the settings go to 'Help' tab and select 'import addon data' and import the given [sidebery.json](https://github.com/ogfourtwo/firefox-sidebery-setup/blob/main/sidebery.json) settings file after downloading it.
 
 ![step12](https://github.com/user-attachments/assets/a2c54740-2d93-48fd-996c-c7cd2e58674c)
 
-13. Now go to 'Styles Editor' tab and paste the content of sidebery-styles.txt into the field.
+13. Now go to 'Styles Editor' tab and paste the content of [sidebery-styles.txt](https://github.com/ogfourtwo/firefox-sidebery-setup/blob/main/sidebery-styles.txt) into the field.
 
   ![step13](https://github.com/user-attachments/assets/0e08c57a-3bad-43cd-934c-316134147d08)
 
